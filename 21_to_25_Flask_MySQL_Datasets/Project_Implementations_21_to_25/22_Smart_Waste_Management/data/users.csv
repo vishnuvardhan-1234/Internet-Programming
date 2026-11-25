@@ -1,0 +1,4 @@
+name,email,role,password
+Demo Admin,admin@demo.com,admin,admin123
+Demo Driver,driver@demo.com,driver,driver123
+Demo Public User,user@demo.com,user,user123

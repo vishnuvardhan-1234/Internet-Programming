@@ -1,0 +1,4 @@
+name,email,role,password
+Demo Admin,admin@demo.com,admin,admin123
+Demo Director,director@demo.com,director,director123
+Demo Applicant,user@demo.com,user,user123

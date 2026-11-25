@@ -1,0 +1,4 @@
+business_name,owner_name,city,area,service,phone,latitude,longitude,approved
+QuickFix Motors,Ravi,Chennai,Anna Nagar,Car repair,9000000201,13.085,80.2101,Yes
+RoadRescue Garage,Imran,Chennai,Avadi,Bike repair,9000000202,13.1143,80.1018,Yes
+AutoCare Point,Kiran,Bengaluru,Indiranagar,Car repair,9000000203,12.9784,77.6408,No

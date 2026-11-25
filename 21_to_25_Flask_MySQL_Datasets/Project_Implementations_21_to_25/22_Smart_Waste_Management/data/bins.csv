@@ -1,0 +1,4 @@
+bin_code,location,latitude,longitude,capacity,current_load,status
+BIN001,"Anna Nagar, Chennai",13.085,80.2101,100,70,Needs Collection
+BIN002,"Avadi, Chennai",13.1143,80.1018,100,25,Normal
+BIN003,"Ambattur, Chennai",13.0982,80.1629,120,95,Needs Collection

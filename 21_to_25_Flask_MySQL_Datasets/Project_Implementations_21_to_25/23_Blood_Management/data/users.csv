@@ -1,0 +1,4 @@
+name,email,role,password
+Demo Admin,admin@demo.com,admin,admin123
+Demo Hospital,hospital@demo.com,hospital,hospital123
+Demo Donor,user@demo.com,user,user123

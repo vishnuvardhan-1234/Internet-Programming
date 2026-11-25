@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block body %}<h2>Applications / Requests</h2>{% for a in rows %}<div class="card"><b>{{a.title}}</b><p>{{a.applicant_email}} · {{a.status}} · {{a.resume_filename or ''}}</p></div>{% else %}<p>No applications yet.</p>{% endfor %}{% endblock %}

@@ -1,0 +1,3 @@
+hospital_name,city,A_pos,A_neg,B_pos,B_neg,O_pos,O_neg,AB_pos,AB_neg,contact
+City Care Hospital,Chennai,8,2,6,1,10,3,4,1,04440000001
+LifeLine Blood Bank,Bengaluru,5,1,7,2,6,2,3,1,08040000002
